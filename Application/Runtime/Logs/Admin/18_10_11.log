@@ -1,0 +1,153 @@
+[ 2018-10-11T17:45:06+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: Index C:\MyProgram\myWeb\tp_shop\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000700s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-10-11T17:45:07+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+NOTIC: [8] Undefined index: welcome C:\MyProgram\myWeb\tp_shop\Application\Admin\Common\function.php 第 51 行.
+NOTIC: [8] Undefined index: version C:\MyProgram\myWeb\tp_shop\Application\Admin\Controller\IndexController.class.php 第 64 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000565s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000314s ]
+
+[ 2018-10-11T17:45:08+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined index: login_task C:\MyProgram\myWeb\tp_shop\Application\Admin\Common\function.php 第 51 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\MyProgram\myWeb\tp_shop\Application\Admin\Controller\SystemController.class.php 第 249 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2018-10-11T17:45:58+08:00 ] 127.0.0.1 /index.php/Admin/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000648s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-10-11T17:45:59+08:00 ] 127.0.0.1 /index.php/Admin/user/ajaxindex/p/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index: ajaxindex C:\MyProgram\myWeb\tp_shop\Application\Admin\Common\function.php 第 51 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000537s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 57 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 62 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 63 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' C:\MyProgram\myWeb\tp_shop\Application\Runtime\Cache\Admin\3e12696b20dc93b2182c6881a1ad6237.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
